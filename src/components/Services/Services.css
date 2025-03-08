@@ -1,0 +1,126 @@
+.service-hero h1{
+color: #FF7043;
+font-size: 89px;
+font-weight: 600;
+margin: 15px 0;
+
+}
+
+.service-hero p{
+    font-size: 35px;
+    font-family: open Sans;
+    width: 1124px;
+    height: 169px;
+    text-align: center;
+
+}
+.service-hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 5px;
+
+}
+
+.services-option{
+    height: 216px;
+    width: 100%;
+    display: flex;
+
+    justify-content: space-between;
+    align-items: center;
+}
+.services-option a{
+    font-size: 29px;
+    font-weight: 700;
+    font-family: poppins;
+}
+
+.sell-buy-pets{
+    width: 100%;
+    height: 365px;
+    display: flex;
+align-items: center;
+justify-content: center;
+gap: 84px;
+flex-direction: row;
+    
+}
+.pets-img img{
+width: 472px;
+height: 360px;
+border-radius: 20px;
+}
+
+.pets-content {
+width: 100%;
+height: 365px;
+
+}
+.pets-content p{
+width: 617px;
+height: 194px;
+font-size: 20px;
+line-height: 34px;
+font-family: poppins;
+}
+
+.pets-content h3{
+    width: 617px;
+    height: 23px;
+    color: #4DB6AC;
+    font-family: poppins;
+    font-weight: 400;
+    font-size: 24px;
+
+
+
+}
+
+.pets-content button{
+width: 182px;
+height: 50px;
+padding: 0 7px;
+font-family: open Sans;
+background-color: #FF7043;
+border-radius: 20px;
+font-size: 23px;
+font-weight: 600;
+color: #FFF3E0;
+border: none;
+
+
+}
+
+.sell-by-pets-container{
+    display: flex;
+    flex-direction: column;
+    gap: 84px;
+}
+
+.reverse{
+    flex-direction: row-reverse;
+}
+
+.margin{
+    margin-bottom: 84px;
+}
+
+
+.margin-top{
+    margin-top: 82px;
+}
+
+.services-option li{
+    list-style-type: none;
+}
+
+.services-option li .active:active{
+    color: #FF7043;
+}
+
+
+
+
+

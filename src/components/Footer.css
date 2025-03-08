@@ -1,0 +1,141 @@
+.footer-container {
+    width: 100%;
+    height: 321px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #FFED4FED;
+}
+
+.subscribe-container {
+    width: 331px;
+    height: 80%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.same-container {
+    width: 15%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.footer-logo-container {
+    width: 151px;
+    height: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+/* .footer-logo{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+} */
+.footer-logo {
+    width: 151px;
+    height: 40px;
+    mix-blend-mode: multiply;
+}
+
+.subscribe {
+    width: 250px;
+    height: 120px;
+    padding: 35px;
+    background-color: #FF7043;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border-radius: 20px;
+}
+
+.subscribe p{
+    font-size: 13px;
+    margin: 0px;
+}
+
+.channel input {
+    width: 187px;
+    height: 27px;
+    border-radius: 30px;
+    background-color: white;
+}
+
+.subscribe-btn {
+    width: 67px;
+    height: 19px;
+    border-radius: 25px;
+    font-family: Open Sans;
+    font-size: 10px;
+    font-weight: 600;
+    background-color: #5ABBB2;
+    border: none;
+    color: white;
+}
+
+.footer-logo-text {
+    font-family: Open Sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23px;
+    color: black;
+
+}
+
+.footer-heading {
+    font-family: Open Sans;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 23px;
+    text-align: left;
+
+}
+
+.footer-text {
+    font-family: Open Sans;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 23px;
+    text-align: left;
+}
+
+.social-media-icons {
+    margin-top: 40px;
+    width: 120px;
+    height: 23px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.smi {
+    width: 20px;
+    height: 20px;
+
+}
+.contact-us{
+    width: 15%;
+    height: 85%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.channel input {
+    width: 247px;
+    height: 27px;
+    border-radius: 30px;
+    background-color: white;
+}
+
+.channel input::placeholder{
+    font-size: 16px;
+    color: #FF7043;
+}
