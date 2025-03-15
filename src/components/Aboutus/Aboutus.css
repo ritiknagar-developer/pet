@@ -28,13 +28,13 @@
 
 .right img{
 width: 352px;
-height: 500.87px;
+height: 501px;
 border-radius: 30px;
-border: 8px;
+border-width: 8px ; 
 }
 
 .about-us-content p{
-    /* width: 973px; */
+   
     height: 360px;
     font-size: 26px;
     line-height: 49px;
@@ -45,15 +45,12 @@ border: 8px;
 
 }
 
-/* .about-us-para{
-    width: 100%;
-    height: 1200px;
-}  */
 
-.about-us-content p img{
+
+.about-us-content  img{
     position: absolute;
     right: 221px;
-    margin-top: 33px;
+    margin-top: -106px;
 }
 .about-us-content{
     margin-top: 60px;
@@ -113,10 +110,7 @@ border: 8px;
     gap: 40px;
 }
 
-/* .sec3-left p{
-    width: 1140px;
-    height: 98px;
-} */
+
 .sec3-img{
     width: 521px;
     height: 554px;

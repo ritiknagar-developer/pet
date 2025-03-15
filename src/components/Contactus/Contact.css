@@ -32,7 +32,6 @@
 
 
 
-/* Form container styling */
 .form-container {
     background-color: #4DB6AC;
     border: 1px solid #ddd;
@@ -43,14 +42,14 @@
     margin-bottom: 75px;
 }
   
-  /* Form heading */
+
   .info-form h2 {
     text-align: center;
     margin-bottom: 20px;
     color: #333;
   }
   
-  /* Fieldsets and legends */
+
   fieldset {
     margin-bottom: 15px;
     padding: 10px;
@@ -63,7 +62,7 @@
     color: #007bff;
   }
   
-  /* Form group styling */
+ 
   .form-group {
     margin-bottom: 15px;
   }
@@ -77,13 +76,7 @@
     font-family: poppins;
   }
   
-  /* input, select {
-    /* width: 100%;
-    padding: 8px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    font-size: 14px; */
-   */
+  
   
   input:focus, select:focus {
     border-color: #007bff;
@@ -93,7 +86,7 @@
   
   
   
-  /* Submit button */
+
   .form-button button {
     width: 200PX;
     padding: 10px;

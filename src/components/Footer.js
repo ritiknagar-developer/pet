@@ -1,6 +1,6 @@
 import React from 'react'
 import './Footer.css';
-// import logo from '../Assets/PetzzyWeb-bg.png';
+
 import logo from '../Assets/9.png';
 import insta from '../Assets/insta.png';
 import fb from '../Assets/fb.png';
@@ -15,7 +15,7 @@ function Footer(){
            <div className='footer-logo'>
               <img src={logo} alt='logo' height='100%'/>
             </div> 
-            {/* <p className='footer-logo-text'>PetzzyWeb</p> */}
+           
           </div>
           <div className='subscribe'> 
             <p>Subscribe to our news letter to get updates</p>
@@ -47,7 +47,7 @@ function Footer(){
             <a href='/services' className='footer-text'>Buy & Sell</a>
             <a href='/services2' className='footer-text'>Shop</a>
             <a href='/services3' className='footer-text'>Consult a vet</a>
-            <p></p>
+            
        </div>
        <div className='contact-us'>
        <h3 className='footer-heading'>Contact us</h3>

@@ -55,7 +55,7 @@
     width: 1205px;
     height: 312px;
     display: flex;
-    /* justify-content: space-between; */
+  
     align-items: center;
     background-color: #FFF3E0;
     justify-content: space-around;
@@ -107,7 +107,7 @@
     height: 316px;
     border-radius: 12px;
     background: url(../../Assets/img24.png);
-    /* opacity: 0.5; */
+   
     display: flex ;
         flex-direction: column;
         gap: 40px;
@@ -191,7 +191,7 @@
 ;
     justify-content: space-between;
     align-items: center;
-    /* width: 400px; */
+    
     width: 100%;
     height: 400px;
     text-align: center;
@@ -211,11 +211,6 @@
     padding: 32px;
 
 }
-
-/* .blog-sec-4{
-    width: 100%;
-    height: 1500px;
-} */
 
 .blog-last p{
     width: 1210px;

@@ -1,7 +1,7 @@
 import React from 'react';
 import './Home.css';
 import stars from '../Assets/stars.png';
-// import rajesh from '../Assets/rajesh.jpg'
+
 import img1 from '../Assets/img1.jpg'
 import img2 from '../Assets/img2.jpg'
 import img6 from '../Assets/img6.jpg'
@@ -34,16 +34,7 @@ function Home() {
       itemText: 'Aalmino Chelated Mineral Mixture for Cow, Buffalo, Sheep, Horse & Poultry | Premium Pet Health Supplements for Optimal Livestock Well-Being (5 KG)',
       buttonUrl: '/',
     }
-    // {
-    //   imageUrl: '',
-    //   itemText: '',
-    //   buttonUrl: '/',
-    // },
-    // {
-    //   imageUrl: '',
-    //   itemText: '',
-    //   buttonUrl: '/',
-    // }
+ 
 
   ]
   return (
@@ -82,7 +73,7 @@ function Home() {
             <p className='hsit2'>Find the perfect pet or sell your beloved animal with ease. Browse available pets or list your own.</p>
             <button className='sb'>Start Browsing</button>
             <div className='photu'>
-             {/* <img src={rajesh}/> */}
+            
             </div>
            
             

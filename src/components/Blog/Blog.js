@@ -27,21 +27,6 @@ const Blog = () => {
     },
   ];
 
-  // const previewImg = [
-  //   {
-  //     paraUrl:'Nutrition & Diet' ,
-  //     itemPara:'Best foods for different breeds and ages',
-  //   },
-
-  //   {
-  //     paraUrl:'Grooming & Hygiene' ,
-  //     itemPara:'DIY grooming guides, products, and tips',
-  //   },
-  //   {
-  //     paraUrl:'Pet Parenting Tips' ,
-  //     itemPara:'DIY grooming guides, products, and tips',
-  //   }
-  // ]
   return (
     <div className="blog-container">
       <div className="blog-hero">
@@ -137,7 +122,7 @@ const Blog = () => {
         </div>
       </div>
       <div className="blog-sec-4">
-        {/* <img src={img31} alt="" /> */}
+       
         <h1>Pets Care Resourses</h1>
       </div>
       <div className="blog-last">
