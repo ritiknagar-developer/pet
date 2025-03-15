@@ -4,8 +4,6 @@ import stars from '../Assets/stars.png';
 
 import img1 from '../Assets/img1.jpg'
 import img2 from '../Assets/img2.jpg'
-import img6 from '../Assets/img6.jpg'
-import img8 from '../Assets/img8.jpg'
 import img11 from '../Assets/img11.jpg'
 import img12 from '../Assets/img12.jpg'
 import img13 from '../Assets/img13.jpg'
@@ -266,17 +264,17 @@ function Home() {
       <br />
       <div className='h-sec8'>
         <div className='h-sec8-item1'>
-          <img src={img11} />
+          <img src={img11} alt='img'/>
           <p className='h-sec8-item1-text'>Addressing Common Behavioral Issues in Cows: Expert Tips for Farmers</p>
           <a href='#' className='read-more'>read more..</a>
         </div>
         <div className='h-sec8-item1'>
-          <img src={img12} />
+          <img src={img12} alt='img'/>
           <p className='h-sec8-item1-text'>The Ultimate Guide to Pet Nutrition: What Every Pet Owner Needs to Know</p>
           <a href='#' className='read-more'>read more..</a>
         </div>
         <div className='h-sec8-item1'>
-           <img src={img13} />
+           <img src={img13} alt='img'/>
           <p className='h-sec8-item1-text'>"The Role of Exercise in Your Pet’s Health: Finding the Right Balance"</p>
           <a href='#' className='read-more'>read more..</a>
         </div>
