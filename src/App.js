@@ -1,7 +1,7 @@
 import './App.css';
 import { Route, Routes } from 'react-router-dom';
 import Home from './components/Home';
-import Header from './components/Header';
+import Header from './components/header/Header';
 import Footer from './components/Footer';
 import Services from './components/Services/Services';
 import Services2 from './components/Services/Services2';
