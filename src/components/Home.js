@@ -266,17 +266,17 @@ function Home() {
         <div className='h-sec8-item1'>
           <img src={img11} alt='img'/>
           <p className='h-sec8-item1-text'>Addressing Common Behavioral Issues in Cows: Expert Tips for Farmers</p>
-          <a href='#' className='read-more'>read more..</a>
+          <p className='read-more'>read more..</p>
         </div>
         <div className='h-sec8-item1'>
           <img src={img12} alt='img'/>
           <p className='h-sec8-item1-text'>The Ultimate Guide to Pet Nutrition: What Every Pet Owner Needs to Know</p>
-          <a href='#' className='read-more'>read more..</a>
+          <p className='read-more'>read more..</p>
         </div>
         <div className='h-sec8-item1'>
            <img src={img13} alt='img'/>
           <p className='h-sec8-item1-text'>"The Role of Exercise in Your Pet’s Health: Finding the Right Balance"</p>
-          <a href='#' className='read-more'>read more..</a>
+          <p className='read-more'>read more..</p>
         </div>
       </div>
       <br />

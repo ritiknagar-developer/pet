@@ -30,3 +30,4 @@ Thumbs.db
 # Testing
 /coverage
 /junit.xml
+.vercel

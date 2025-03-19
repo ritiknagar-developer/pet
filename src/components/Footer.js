@@ -32,15 +32,15 @@ function Footer(){
             <h3 className='footer-heading'>Information</h3>
             <a href='/about-us' className='footer-text'>About us</a>
             <a href='/blog' className='footer-text'>Blog</a>
-            <a href='#' className='footer-text'>Events</a>
-            <a href='#' className='footer-text'>Testimonials</a>
+            <a href='/about-us' className='footer-text'>Events</a>
+            <a href='/blog' className='footer-text'>Testimonials</a>
        </div>
        <div className='same-container'>
        <h3 className='footer-heading'>Helpful Links</h3>
             <a href='/services' className='footer-text'>Services</a>
             <a href='/contact-us' className='footer-text'>Support</a>
-            <a href='#' className='footer-text'>Terms & Conditions</a>
-            <a href='#' className='footer-text'>Privacy Policy</a>
+            <a href='/services' className='footer-text'>Terms & Conditions</a>
+            <a href='/contact-us' className='footer-text'>Privacy Policy</a>
        </div>
        <div className='same-container'>
        <h3 className='footer-heading'>Our Services</h3>
@@ -54,22 +54,22 @@ function Footer(){
             <p className='footer-text'><i class="fa-solid fa-phone-volume"></i> +91 9999999999</p>
             <p className='footer-text'><i class="fa-solid fa-envelope"></i> mailid.com</p>
             <div className='social-media-icons'>
-              <a href='#'>
+              <a href='/contact-us '>
               <div className='smi'>
                 <img src={insta} height='100%' alt='icon1'/>
               </div>
               </a>
-              <a href='#'>
+              <a href='/contact-us'>
               <div className='smi'>
                 <img src={fb} height='100%' alt='icon2'/>
               </div>
               </a>
-              <a href='#'>
+              <a href='/contact-us'>
               <div className='smi'>
                 <img src={xt} height='100%' alt='icon3'/>
               </div>
               </a>
-              <a href='#'>
+              <a href='/contact-us'>
               <div className='smi'>
                 <img src={gmail} height='100%' alt='icon4'/>
               </div>
