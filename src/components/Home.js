@@ -37,7 +37,7 @@ function Home() {
   ]
   return (
     <div className='home'> 
-      <div className='h-sec1'style={{ backgroundImage: `url(${require('../Assets/dog.jpg')})` }}>
+      <div className='h-sec1'>
         <div className='h-text-container1'>
           <p className='ht-1'>Your One-Stop Destination for All Things Pet!</p>
           <p className='ht-2'>From buying and selling pets to expert veterinary care, we have everything your pet needs</p>

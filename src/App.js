@@ -14,6 +14,7 @@ import Blog from './components/Blog/Blog';
 
 
 function App() {
+  console.log("ritik nagar")
   return (
     <div className="App">
       <Header />
