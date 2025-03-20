@@ -29,7 +29,7 @@
     display: flex;
     justify-content: space-between;
     gap: 0px;
-    background-image: url('/src/Assets/ad4c10227921ea133d8e2190d5402860.jpg');
+    background-image: url('../Assets/dog.jpg');
     background-size: cover;
     border-radius: 20px;
     opacity: 0px;
