@@ -29,12 +29,14 @@
     display: flex;
     justify-content: space-between;
     gap: 0px;
-    background-image: url('../../public/dog.jpg');
+   
     background-size: cover;
     border-radius: 20px;
-    opacity: 0px;
+    opacity: 1;
     box-shadow: 0px 4px 4px 0px #00000040;
+    
 }
+
 
 .ht-1 {
     font-family: Poppins;
